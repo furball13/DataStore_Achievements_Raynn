@@ -302,4 +302,15 @@ enum.AchievementCategories = {
 	FeatsOfStrengthPromotionsCollector = -96,
 	FeatsOfStrengthRealmFirst = -97,
 
+        Legacy = 15234,
+	LegacyCharacter = 15446,
+	LegacyQuests = 15447,
+	LegacyPvP = 15279,
+	LegacyDungeons = 15277,
+	LegacyRaids = 15278,
+	LegacyProfessions = 172,
+	LegacyCurrencies = 15280,
+	LegacyWorldEvents = 15416,
+	LegacyExpansionFeatures = 15411,
+
 }
