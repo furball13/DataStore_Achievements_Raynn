@@ -233,6 +233,7 @@ enum.AchievementCategories = {
 	CollectionsAppearances = 15259,
 	CollectionsAppearancesRaids = -61,
 	CollectionsAppearancesPvP = -62,
+	CollectionsDrakeCosmetics = 15478,
 
 	ExpansionFeatures = 15301,
 	ExpansionFeaturesArgentTournament = 14941,
