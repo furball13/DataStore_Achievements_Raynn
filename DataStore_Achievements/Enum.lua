@@ -262,6 +262,15 @@ enum.AchievementCategories = {
 	ExpansionFeaturesDragonriderRacing = 15462,
 	ExpansionFeaturesPrimalStorms = 15474,
 
+	RemixPandaria = 15509,
+	RemixPandariaQuests = 15510,
+	RemixPandariaReputation = 15513,
+	RemixPandariaExploration = 15511,
+	RemixPandariaScenarios = 15512,
+	RemixPandariaDungeons = 15514,
+	RemixPandariaRaids = 15515,
+
+
 	FeatsOfStrength = 81,
 	FeatsOfStrengthMounts = 15269,
 	FeatsOfStrengthMountsArena = -80,
