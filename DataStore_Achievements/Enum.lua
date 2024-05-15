@@ -152,6 +152,8 @@ enum.AchievementCategories = {
 
 	RaidsDragonflight = 15468,
 	RaidsDragonflightVaultOfTheIncarnates = -135,
+	RaidsDragonflightAberrus = -236,
+	RaidsDragonflightAmirdrassil = -237,
 
 
 
