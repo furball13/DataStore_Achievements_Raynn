@@ -212,8 +212,8 @@ enum.AchievementCategories = {
 	WorldEventsDarkmoon = 15101,
 	WorldEventsDarkmoonRealRace = -47,
 	WorldEventsDarkmoonRealBigRace = -48,
-	WorldEventsBrawlersGuild = 15282,
 	WorldEventsDarkmoonDance = -49,
+	WorldEventsBrawlersGuild = 15282,
 	WorldEventsTimewalking = 15454,
 
 	PetBattles = 15117,
